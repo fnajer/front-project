@@ -2958,3 +2958,24 @@ button {
   max-width: 1000px;
   margin: 0 auto;
 }
+.icon1 {
+  display: block;
+  background-image: url("../img/sprite/sprite.png");
+  background-position: 0px 0px;
+  width: 32px;
+  height: 32px;
+}
+.icon2 {
+  display: block;
+  background-image: url("../img/sprite/sprite.png");
+  background-position: -47px 0px;
+  width: 32px;
+  height: 32px;
+}
+.icon3 {
+  display: block;
+  background-image: url("../img/sprite/sprite.png");
+  background-position: 0px -47px;
+  width: 32px;
+  height: 32px;
+}
